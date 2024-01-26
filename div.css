@@ -1,0 +1,27 @@
+body{
+	background-color:MistyRose;
+}
+ div { color: black; background-image: url("div.jpg");background-repeat: no-repeat, repeat;width:80%; margin:0 auto  
+ ; font-family:Comic Sans MS, Comic Sans, cursive;
+ }
+ .conteneur{ width:80% ;}
+ #cp{margin:0 auto ;
+	 
+ }
+ .gras{ font-weight:bold;
+ }
+ .fondjaune{ background-color:MediumVioletRed	}
+}
+.hgroup{ color:white;background-color:purple; text-align:right; font-family:Comic Sans MS, Comic Sans, cursive;
+}
+ h3{font-size:30px;
+	 margin-bottom:0;
+	 
+ }
+ h4{ font-size:20px;margin-top:0;}
+ .h1{ font-family:OCR A Std, monospace; text-align:center;text-shadow: 1px 1px 2px red, 0 0 1em blue, 0 0 0.2em blue;}
+ p{font-family:Comic Sans MS, Comic Sans, cursive;}
+ .a{font-family:Bradley Hand, cursive;} 
+ .img{text-align:left}
+ header{ background-color:MediumTurquoise;}
+.imgg{position:absolute;right:16px;border-radius: 35%;}

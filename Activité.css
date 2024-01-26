@@ -1,0 +1,15 @@
+.first{display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 30%;}
+ body{background-color:MistyRose; background-image: url("8.gif");background-repeat: no-repeat,repeat;background-size: cover; }
+ h1{ text-align:center; color:DarkCyan; font-family: Monaco, monospace}
+ h2{ text-align:center; color:DarkSalmon; font-family: Monaco, monospace}
+ h3{ text-align:center; color:Brown ; font-family: Monaco, monospace} 
+ table{text-align: center; width:100%}
+ ul{font-family : cursive;} 
+ table{font-family:"Comic Sans MS", cursive, sans-serif ;}
+ th{color:IndianRed}
+ h4{text-align:right;color:DarkCyan; font-family: Monaco, monospace ; }
+  header{ background-color:MediumTurquoise;}
+.img{position:absolute;right:16px;}

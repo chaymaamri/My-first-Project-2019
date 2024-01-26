@@ -1,0 +1,6 @@
+ body{background-color:MistyRose;background-image: url("5.gif");background-repeat: no-repeat,repeat;background-size: 100%;  }
+ h1{ text-align:center; color:DarkSalmon; font-family: Monaco, monospace,bold}
+  p{ font-family:"Comic Sans MS"; }
+   h4{color:DarkCyan; font-family: Monaco, monospace}
+header{ background-color:MediumTurquoise;}
+.img{position:absolute;right:16px;}

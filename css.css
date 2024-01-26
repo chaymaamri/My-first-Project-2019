@@ -1,0 +1,11 @@
+ body{background-color:MistyRose; background-image: url("a.gif");background-repeat: no-repeat, repeat;background-size: cover}
+ h1{ text-align:center; color:DarkSalmon; font-family: Monaco, monospace}
+ p{ font-family:"Comic Sans MS"}
+ video{display: block;
+  margin-left: auto;
+  margin-right: auto;
+ width: 30%;opacity:0.8}
+   h4{text-align:right;color:DarkCyan; font-family: Monaco, monospace}
+ #pre{text-align:left ;color:DarkCyan; font-family: Monaco, monospace}
+ header{ background-color:MediumTurquoise;}
+.img{position:absolute;right:16px;}
